@@ -18,19 +18,25 @@ Aplikacja typu Media Player do odtwarzania plików multimedialnych.
 #### Ekran główny
 
 Opis: Zawiera przyciski nawigacyjne wraz z menu do poszczególnych funkcji.
+
 Mockup: TODO
+
 Layout: LinearLayout
 
 #### Lista szczegółów
 
 Opis: Prezentuje listę dostępnych plików multimedialnych dając opcję ich odtwarzania.
+
 Mockup: TODO
+
 Layout: RelativeLayout
 
 #### Ekran ustawień
 
 Opis: Służy do zmian ustawień aplikacji.
+
 Mockup: TODO
+
 Layout: ConstraintLayout
 
 # Dokumentacja techniczna
