@@ -9,7 +9,7 @@ Aplikacja typu Media Player do odtwarzania plików multimedialnych.
 1. Przegląd biblioteki multimediów (wykorzystanie `MediaContentProvider`)
 2. Odtwarzanie w tle multimediów (wykorzystanie `MusicService`)
 3. Zarządzanie ustawieniami:
-   3.1. Sprawdzanie połączenia z siecią Internet (wykorzystanie `NetworkChangeReceiver`)
+3.1. Sprawdzanie połączenia z siecią Internet (wykorzystanie `NetworkChangeReceiver`)
 
 ## Wymagania niefunkcjonalne
 
